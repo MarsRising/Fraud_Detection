@@ -10,7 +10,7 @@ I would suggest further focus on improving the precision, so we can minimize the
 
 I also found the top 10 factors that are related to fraud.
 
-![image](https://github.com/user-attachments/assets/4579fdde-b42b-4be0-9294-086d5c0f5a86)
+![image](https://github.com/user-attachments/assets/04524d73-c298-4d05-902d-8b66965f3319)
 
 
 ![image](https://github.com/user-attachments/assets/cb26556e-6e66-4b4f-8595-587870c0d9a6)
